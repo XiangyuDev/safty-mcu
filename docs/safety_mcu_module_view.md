@@ -212,3 +212,4 @@ stateDiagram-v2
 |---|---|---|
 | `power_mode` | enum | `NORMAL` / `SLEEP_PREP` / `SLEEP` / `WAKE_PREP` |
 | `safety_override` | bool | 为 `1` 时强制以安全模式执行，忽略普通休眠命令 |
+
